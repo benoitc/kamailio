@@ -32,7 +32,7 @@
 #include "../../core/sr_module.h"
 #include "../../core/locking.h"
 #include "../../core/str.h"
-#include "../../core/utils/sruid.h"
+#include "../../lib/srutils/sruid.h"
 #include "../tm/tm_load.h"
 
 #define KA_INACTIVE_DST 1 /*!< inactive destination */
